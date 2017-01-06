@@ -1,6 +1,8 @@
 # HorizontalGcodeToEleks
 Convert Gcode output from Warkilt's excellent inkscape-laser to identical code output from the software 'Elek's Laser'
 
+This readme best viewed in 'Raw' format, as it was mostly copied from my text files before I decided to dump it on here.
+
 ## INTRO:
 The stupid software that came with my Banggood laser engraver had NO documentation (actually, I found the software through wayback machine to an old Banggood site, it had no download link, guide, or anything else)
 
