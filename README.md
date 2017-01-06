@@ -27,7 +27,7 @@ https://github.com/makejs/inkscape-laser
 ## WHAT THIS PROGRAM IS FOR:
 But this did not run on my Banggood engraver, so I made this to use his method to do raster engraving on my Banggood laser engraver! It converts the output gcode files to files identical to what would have been produced from Eleks laser software if the idiots designing it  had given it a bigger (or adjustable) work area. I post in haste, I apologize, this is not my best work by any means but it's late and I just wanted to give something back that would have saved me so much time in the last few days.
 
-## Comparison of Gcodes:
+## Comparison of Gcodes: (Set github viewer to 'Raw' for proper layout of this section)
 # Some sample Gcode from Eleks laser:
 %
 G1 X29.750 Y0.000
